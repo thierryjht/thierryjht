@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thierryjht
-- 🌱 I’m currently learning via the Odin Project
+- 🌱 I’m currently learning via 42 ecole.
 - 📫 tacocat#5517 on Discord
 
 <!---
